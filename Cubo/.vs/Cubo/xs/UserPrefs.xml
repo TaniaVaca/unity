@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A64A3CD5-7383-9EE1-7B2F-A7A175B1EE43}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Script/JsonData.cs" Line="13" Column="27" />
+      <File FileName="Assets/Script/CameraController.cs" Line="4" Column="1" />
+      <File FileName="Assets/Script/CargarInfoIDMB.cs" Line="32" Column="126" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/taticamumu/Documents/Unity/Cubo/Assets/Script/jsonData.cs" relfile="Assets/Script/jsonData.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
